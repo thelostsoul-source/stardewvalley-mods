@@ -1,0 +1,61 @@
+{
+  "Name": "Nyx's Horns",
+  "FrontAccessory": {
+    "DrawAfterPlayer": true,
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+       },
+    "HeadPosition": {
+      "X": 2,
+      "Y": 5
+       },
+    "AccessorySize": {
+      "Width": 20,
+      "Length": 20
+       },
+  },
+ "RightAccessory": {
+   "StartingPosition": {
+      "X": 0,
+      "Y": 20
+       },
+    "HeadPosition": {
+      "X": 2,
+      "Y": 4
+       },
+    "AccessorySize": {
+      "Width": 20,
+      "Length": 20
+       },
+  },
+ "LeftAccessory": {
+   "Flipped": true,
+   "StartingPosition": {
+      "X": 0,
+      "Y": 20
+       },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 4
+       },
+    "AccessorySize": {
+      "Width": 20,
+      "Length": 20
+       },
+  },
+ "BackAccessory": {
+   "StartingPosition": {
+      "X": 0,
+      "Y": 40
+       },
+    "HeadPosition": {
+      "X": 2,
+      "Y": 2
+       },
+    "AccessorySize": {
+      "Width": 20,
+      "Length": 20
+       }
+   }
+}

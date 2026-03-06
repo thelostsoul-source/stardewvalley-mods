@@ -1,0 +1,81 @@
+{
+  "Name": "Alruna's Horns (Recolorable)",
+  "FrontAccessory": {
+    "DrawAfterPlayer": true,
+    "ColorMasks": [
+       [ 100, 100, 100 ],
+       [ 137, 137, 137 ],
+       [ 201, 201, 201 ]
+     ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+       },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 0
+       },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 16
+       },
+  },
+ "RightAccessory": {    
+   "ColorMasks": [
+       [ 100, 100, 100 ],
+       [ 137, 137, 137 ],
+       [ 201, 201, 201 ]
+     ],
+   "StartingPosition": {
+      "X": 0,
+      "Y": 16
+       },
+    "HeadPosition": {
+      "X": 2,
+      "Y": -2
+       },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 16
+       },
+  },
+ "LeftAccessory": {
+   "Flipped": true,
+   "ColorMasks": [
+       [ 100, 100, 100 ],
+       [ 137, 137, 137 ],
+       [ 201, 201, 201 ]
+     ],
+   "StartingPosition": {
+      "X": 0,
+      "Y": 16
+       },
+    "HeadPosition": {
+      "X": -2,
+      "Y": -2
+       },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 16
+       },
+  },
+ "BackAccessory": {
+    "ColorMasks": [
+       [ 100, 100, 100 ],
+       [ 137, 137, 137 ],
+       [ 201, 201, 201 ]
+     ],
+   "StartingPosition": {
+      "X": 0,
+      "Y": 32
+       },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 0
+       },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 16
+       }
+   }
+}

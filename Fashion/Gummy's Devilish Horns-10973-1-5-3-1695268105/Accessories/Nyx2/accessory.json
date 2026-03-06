@@ -1,0 +1,85 @@
+{
+  "Name": "Nyx's Illuminated Horns",
+  "FrontAccessory": {
+    "DrawAfterPlayer": true,
+    "ColorMasks": [
+       [ 112, 112, 112 ],
+       [ 117, 117, 117 ],
+       [ 250, 250, 250 ],
+       [ 252, 252, 252 ]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+       },
+    "HeadPosition": {
+      "X": 2,
+      "Y": 5
+       },
+    "AccessorySize": {
+      "Width": 20,
+      "Length": 20
+       },
+  },
+ "RightAccessory": {
+   "ColorMasks": [
+       [ 112, 112, 112 ],
+       [ 117, 117, 117 ],
+       [ 250, 250, 250 ],
+       [ 252, 252, 252 ]
+    ],
+   "StartingPosition": {
+      "X": 0,
+      "Y": 20
+       },
+    "HeadPosition": {
+      "X": 2,
+      "Y": 4
+       },
+    "AccessorySize": {
+      "Width": 20,
+      "Length": 20
+       },
+  },
+ "LeftAccessory": {
+   "Flipped": true,
+   "ColorMasks": [
+       [ 112, 112, 112 ],
+       [ 117, 117, 117 ],
+       [ 250, 250, 250 ],
+       [ 252, 252, 252 ]
+    ],
+   "StartingPosition": {
+      "X": 0,
+      "Y": 20
+       },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 4
+       },
+    "AccessorySize": {
+      "Width": 20,
+      "Length": 20
+       },
+  },
+ "BackAccessory": {
+   "ColorMasks": [
+       [ 112, 112, 112 ],
+       [ 117, 117, 117 ],
+       [ 250, 250, 250 ],
+       [ 252, 252, 252 ]
+    ],
+   "StartingPosition": {
+      "X": 0,
+      "Y": 40
+       },
+    "HeadPosition": {
+      "X": 2,
+      "Y": 2
+       },
+    "AccessorySize": {
+      "Width": 20,
+      "Length": 20
+       }
+   }
+}

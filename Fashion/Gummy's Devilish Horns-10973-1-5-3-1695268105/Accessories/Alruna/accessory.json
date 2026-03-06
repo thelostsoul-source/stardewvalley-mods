@@ -1,0 +1,65 @@
+{
+  "Name": "Alruna's Horns",
+  "FrontAccessory": {
+    "DisableGrayscale": true,
+    "DrawAfterPlayer": true,
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+       },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 0
+       },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 16
+       },
+  },
+ "RightAccessory": {
+   "DisableGrayscale": true,
+   "StartingPosition": {
+      "X": 0,
+      "Y": 16
+       },
+    "HeadPosition": {
+      "X": 2,
+      "Y": -2
+       },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 16
+       },
+  },
+ "LeftAccessory": {
+   "Flipped": true,
+   "DisableGrayscale": true,
+   "StartingPosition": {
+      "X": 0,
+      "Y": 16
+       },
+    "HeadPosition": {
+      "X": -2,
+      "Y": -2
+       },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 16
+       },
+  },
+ "BackAccessory": {
+   "DisableGrayscale": true,
+   "StartingPosition": {
+      "X": 0,
+      "Y": 32
+       },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 0
+       },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 16
+       }
+   }
+}

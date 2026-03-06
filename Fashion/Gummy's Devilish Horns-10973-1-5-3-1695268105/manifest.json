@@ -1,0 +1,13 @@
+{
+   "Name": "Devilish Horns",
+   "Author": "gummifrog",
+   "Version": "1.5.3",
+   "Description": "Devilish horns for the devilish farmer!",
+   "UniqueID": "devilishhorns.gummyfrog",
+   "MinimumApiVersion": "2.0",
+   "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "PeacefulEnd.FashionSense",
+        "MinimumVersion": "5.8.1"
+    }
+}

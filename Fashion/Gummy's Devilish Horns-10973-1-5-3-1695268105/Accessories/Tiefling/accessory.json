@@ -1,0 +1,85 @@
+{
+  "Name": "Tiefling",
+  "FrontAccessory": {
+    "DrawAfterPlayer": true,
+    "ColorMasks": [
+    [ 84, 84, 84 ],
+    [ 158, 158, 158 ],
+    [ 235, 235, 235 ],
+    [ 255, 255, 255 ]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+       },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 1
+       },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 16
+       },
+  },
+ "RightAccessory": {
+    "ColorMasks": [
+    [ 84, 84, 84 ],
+    [ 158, 158, 158 ],
+    [ 235, 235, 235 ],
+    [ 255, 255, 255 ]
+    ],
+   "StartingPosition": {
+      "X": 0,
+      "Y": 16
+       },
+    "HeadPosition": {
+      "X": 1,
+      "Y": 1
+       },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 16
+       },
+  },
+ "LeftAccessory": {
+    "ColorMasks": [
+    [ 84, 84, 84 ],
+    [ 158, 158, 158 ],
+    [ 235, 235, 235 ],
+    [ 255, 255, 255 ]
+    ],
+   "Flipped": true,
+   "StartingPosition": {
+      "X": 0,
+      "Y": 16
+       },
+    "HeadPosition": {
+      "X": -1,
+      "Y": 1
+       },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 16
+       },
+  },
+ "BackAccessory": {
+    "ColorMasks": [
+    [ 84, 84, 84 ],
+    [ 158, 158, 158 ],
+    [ 235, 235, 235 ],
+    [ 255, 255, 255 ]
+    ],
+   "StartingPosition": {
+      "X": 0,
+      "Y": 32
+       },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 0
+       },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 16
+       }
+   }
+}
