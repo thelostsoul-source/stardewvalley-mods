@@ -1,0 +1,10 @@
+{
+   "Name": "Azrael's Elf Ears",
+   "Author": "Azrael",
+   "Version": "1.0",
+   "Description": "null",
+   "UniqueID": "Azrael.hats",
+   "ContentPackFor": {
+    	"UniqueID": "spacechase0.JsonAssets"
+    },
+}
