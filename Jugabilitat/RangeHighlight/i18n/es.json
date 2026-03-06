@@ -1,0 +1,74 @@
+﻿// Copyright 2022-2024 Jamie Taylor
+{
+    // Strings used in the config menu
+	 "config.install-gmcm-options": "Si instalas el mod de Opciones de GMCM, podrás configurar los colores en este menú.",
+     "config.refresh-interval": "Intervalo de actualización",
+     "config.refresh-interval.tooltip": "Con qué frecuencia (en el juego \"ticks\") se calculan las posiciones de los mosaicos resaltados",
+     "config.enable": "Habilitar",
+     "config.hotkey": "Tecla de acceso rápido",
+     "config.tint": "Color",
+     "config.show-others": "Mostrar a otros cuando está retenido",
+     "config.hotkeys-toggle": "Alternar teclas de acceso rápido",
+     "config.hotkeys-toggle.tooltip": "Si es verdadero, las teclas de acceso rápido alternan el resaltado del rango; de lo contrario, se resaltan cuando se mantiene presionada la tecla de acceso rápido.",
+     "config.show-all-key": "Mostrar todos los rangos de teclas de acceso rápido",
+     "config.show-all-key.tooltip": "Tecla de acceso rápido para mostrar todos los rangos",
+     "config.highlight-building-on-mouseover": "Resaltar edificios al pasar el mouse",
+     "config.highlight-building-on-mouseover.tooltip": "Si es verdadero, los resaltadores de edificios (por ejemplo, Junimo Huts) se ejecutan cuando el mouse apunta al edificio.",
+     "config.highlight-action-location": "Mostrar en la ubicación de la acción",
+     "config.highlight-action-location.tooltip": "Si el objeto actualmente retenido tiene un resaltador, muestra su rango en la ubicación donde se colocará el objeto si presionas el botón de acción.",
+     "config.highlight-action-location-style.Never": "Nunca",
+     "config.highlight-action-location-style.WhenMouseHidden": "Cuando el cursor del mouse está oculto",
+     "config.highlight-action-location-style.Always": "Siempre",
+
+
+     "config.Junimo": "Cabañas de Junimo",
+     "config.Junimo.enable.tooltip": "Habilitar resaltado del rango de Junimo Hut",
+     "config.Junimo.hotkey.tooltip": "Mantenga presionada esta tecla para mostrar los rangos de Junimo Hut",
+     "config.Junimo.tint.tooltip": "Color de resaltado para la gama Junimo Hut",
+
+     "config.sprinkler": "Aspersores",
+     "config.sprinkler.enable.tooltip": "Habilitar resaltado del alcance de los aspersores",
+     "config.sprinkler.hotkey.tooltip": "Mantenga presionada esta tecla para mostrar los rangos de aspersores",
+     "config.sprinkler.show-others.tooltip": "Mostrar rangos de aspersores ya colocados al sostener un aspersor.",
+     "config.sprinkler.tint.tooltip": "Color de resaltado para el alcance de los aspersores",
+
+     "config.scarecrow": "Espantapájaros",
+     "config.scarecrow.enable.tooltip": "Habilitar resaltado del rango del espantapájaros",
+     "config.scarecrow.hotkey.tooltip": "Mantén presionada esta tecla para mostrar los rangos de espantapájaros",
+     "config.scarecrow.show-others.tooltip": "Mostrar rangos de espantapájaros ya colocados al sostener un espantapájaros.",
+     "config.scarecrow.tint.tooltip": "Color de resaltado para el rango de espantapájaros",
+
+     "config.beehouse": "Abejas",
+     "config.beehouse.enable.tooltip": "Habilitar resaltado del rango de abejas",
+     "config.beehouse.hotkey.tooltip": "Mantén presionada esta tecla para mostrar los rangos de las abejas",
+     "config.beehouse.show-others.tooltip": "Mostrar rangos de casas de abejas ya colocadas al sostener una casa de abejas.",
+     "config.beehouse.tint.tooltip": "Color de resaltado para el rango de colmena",
+
+	 "config.mushroom-log": "Registros de hongos",
+     "config.mushroom-log.enable.tooltip": "Habilitar resaltado del rango de registro de hongos",
+     "config.mushroom-log.hotkey.tooltip": "Mantén presionada esta tecla para mostrar los rangos de registro de hongos",
+     "config.mushroom-log.show-others.tooltip": "Mostrar rangos de troncos de hongos ya colocados cuando se sostiene un tronco de hongos.",
+     "config.mushroom-log.tint.tooltip": "Color resaltado para el rango de registro de hongos",
+
+     "config.bomb": "Bombas",
+     "config.bomb.enable.tooltip": "Habilitar resaltado del alcance de la bomba",
+     "config.bomb.held": "Bombas retenidas",
+     "config.bomb.held.tooltip": "Cuando una bomba está equipada, muestra su alcance en la ubicación del cursor",
+     "config.bomb.placed": "Bombas colocadas",
+     "config.bomb.placed.tooltip": "Muestra el alcance de las bombas ya colocadas en el suelo",
+     "config.bomb.hide-held-when-ticking": "Ocultar retenido al marcar",
+     "config.bomb.hide-held-when-ticking.tooltip": "No mostrar el alcance de una bomba retenida cuando hay bombas colocadas actualmente",
+     "config.bomb.tint.tooltip": "Color resaltado para el alcance de la bomba donde se destruyen rocas y objetos",
+     "config.bomb.inner.enable": "Habilitar rango interno",
+     "config.bomb.inner.enable.tooltip": "El alcance interior es donde la bomba puede hacer que la tierra se convierta en tierra azada",
+     "config.bomb.inner.tint": "Color del rango interior",
+     "config.bomb.inner.tint.tooltip": "Color de resaltado para el alcance interno de la bomba",
+     "config.bomb.outer.enable": "Habilitar alcance exterior",
+     "config.bomb.outer.enable.tooltip": "El rango exterior es donde se destruyen los cultivos, se alteran los pisos y el jugador sufre daño",
+     "config.bomb.outer.tint": "Color del rango exterior",
+     "config.bomb.outer.tint.tooltip": "Color de resaltado para el alcance exterior de la bomba",
+
+    // console messages
+    "message.install-gmcm-options": "Tiene instalado el mod Generic Mod Menu Config, pero no las opciones GMCM. Si instala Opciones GMCM (https://www.nexusmods.com/stardewvalley/mods/10505), podrá configurar los colores desde el menú de configuración {{modName}}."
+
+}
