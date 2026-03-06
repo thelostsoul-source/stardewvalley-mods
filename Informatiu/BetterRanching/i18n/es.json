@@ -1,0 +1,31 @@
+{
+    // Config settings
+	 "config.option.failed_harvest.name": "Evitar una cosecha fallida",
+     "config.option.failed_harvest.description": "Evita la animación fallida de ordeño/esquila y el efecto de sonido si no se selecciona ningún animal válido. Nota: Desactive esto si usa el esquema de control 'Tocar para mover y atacar automáticamente' en Android .",
+     "config.option.animal_produce.name": "Mostrar productos animales",
+     "config.option.animal_produce.description": "Muestra el producto encima del animal si está listo para ser cosechado.",
+     "config.option.hearts_animal.name": "Mostrar corazones de animales de granja",
+     "config.option.hearts_animal.description": "Muestra corazones encima de los animales de granja (vacas, patos, etc.) que aún no han sido acariciados.",
+     "config.option.hearts_pet.name": "Mostrar corazones de mascotas",
+     "config.option.hearts_pet.description": "Muestra corazones encima de las mascotas (perros, gatos, etc.) que aún no han sido acariciadas.",
+     "config.option.hearts_enabled.name": "[!] Habilitar corazones",
+     "config.option.hearts_enabled.description": "Permite que los corazones se muestren encima de los animales. Advertencia: Desactivar esto ocultará TODOS los corazones flotantes habilitados por este mod (animales, mascotas, etc.)",
+     "config.option.hearts_max_friendship.name": "Ocultar corazones con amistad máxima",
+     "config.option.hearts_max_friendship.description": "Oculta los corazones cuando la amistad con un animal o mascota está en el nivel máximo. Advertencia: Ten cuidado con esto porque la amistad disminuirá al final del día si no acaricias a tu amigo !",
+
+    // Other messages
+	 "notification.inventory_full": "Inventario lleno",
+
+     "action.out_of_range.milk": "ordeñar",
+     "action.out_of_range.shear": "esquilar",
+     "notification.out_of_range": "Fuera del rango {{ranchActionPresent}}",
+
+     "product.milk": "Leche",
+     "product.wool": "Lana",
+
+     "notification.util_action": "El bebé {{Name}} producirá {{Product}} en {{Days}} días.",
+
+     "action.unable.milk": "ordeñar",
+     "action.unable.shear": "esquilar",
+     "notification.unable": "Nada que {{Action}}"
+}
