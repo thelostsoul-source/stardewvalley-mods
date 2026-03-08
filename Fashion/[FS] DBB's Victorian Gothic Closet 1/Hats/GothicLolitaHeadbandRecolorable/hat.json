@@ -1,0 +1,199 @@
+{
+	"Name": "Gothic Lolita Headband (Recolorable)",
+	"FrontHat":
+	{
+		"StartingPosition": {
+			"X": 0,
+			"Y": 0
+		},
+		"HeadPosition": {
+			"X": -2,
+			"Y": 0
+		},
+		"HatSize": {
+			"Width": 16,
+			"Length": 16
+		},
+		"ColorMaskLayers": [
+			{
+				"Name": "Lace",
+				"Values": [ 
+					[ 254, 254, 254 ],
+					[ 220, 220, 220 ],
+					[ 200, 200, 200 ],
+					[ 150, 150, 150 ], 
+				]
+			},
+			{
+				"Name": "Ribbons",
+				"Values": [
+					[ 253, 253, 253 ],
+					[ 219, 219, 219 ],
+					[ 199, 199, 199 ],
+					[ 149, 149, 149 ], 
+					[ 119, 119, 119 ], 
+				]
+			},
+			{
+				"Name": "Roses",
+				"Values": [
+					[ 252, 252, 252 ],
+				]
+			},
+			{
+				"Name": "Shadow", 
+				"IgnoreUserColorChoice": true,
+				"Values": [
+					[ 50, 50, 50 ],
+				]
+			}
+		],
+	},
+	"RightHat":
+	{
+		"StartingPosition": {
+			"X": 0,
+			"Y": 16
+		},
+		"HeadPosition": {
+			"X": -3,
+			"Y": -1
+		},
+		"HatSize": {
+			"Width": 16,
+			"Length": 16
+		},
+		"ColorMaskLayers": [
+			{
+				"Name": "Lace",
+				"Values": [ 
+					[ 254, 254, 254 ],
+					[ 220, 220, 220 ],
+					[ 200, 200, 200 ],
+					[ 150, 150, 150 ], 
+				]
+			},
+			{
+				"Name": "Ribbons",
+				"Values": [
+					[ 253, 253, 253 ],
+					[ 219, 219, 219 ],
+					[ 199, 199, 199 ],
+					[ 149, 149, 149 ], 
+					[ 119, 119, 119 ], 
+				]
+			},
+			{
+				"Name": "Roses",
+				"Values": [
+					[ 252, 252, 252 ],
+				]
+			},
+			{
+				"Name": "Shadow", 
+				"IgnoreUserColorChoice": true,
+				"Values": [
+					[ 50, 50, 50 ],
+				]
+			}
+		],
+	},
+	"LeftHat":
+	{
+		"StartingPosition": {
+			"X": 0,
+			"Y": 32
+		},
+		"HeadPosition": {
+			"X": -3,
+			"Y": -1
+		},
+		"HatSize": {
+			"Width": 16,
+			"Length": 16
+		},
+		"ColorMaskLayers": [
+			{
+				"Name": "Lace",
+				"Values": [ 
+					[ 254, 254, 254 ],
+					[ 220, 220, 220 ],
+					[ 200, 200, 200 ],
+					[ 150, 150, 150 ], 
+				]
+			},
+			{
+				"Name": "Ribbons",
+				"Values": [
+					[ 253, 253, 253 ],
+					[ 219, 219, 219 ],
+					[ 199, 199, 199 ],
+					[ 149, 149, 149 ], 
+					[ 119, 119, 119 ], 
+				]
+			},
+			{
+				"Name": "Roses",
+				"Values": [
+					[ 252, 252, 252 ],
+				]
+			},
+			{
+				"Name": "Shadow", 
+				"IgnoreUserColorChoice": true,
+				"Values": [
+					[ 50, 50, 50 ],
+				]
+			}
+		],
+	},
+	"BackHat":
+	{
+		"StartingPosition": {
+			"X": 0,
+			"Y": 48
+		},
+		"HeadPosition": {
+			"X": -2,
+			"Y": 0
+		},
+		"HatSize": {
+			"Width": 16,
+			"Length": 16
+		},
+		"ColorMaskLayers": [
+			{
+				"Name": "Lace",
+				"Values": [ 
+					[ 254, 254, 254 ],
+					[ 220, 220, 220 ],
+					[ 200, 200, 200 ],
+					[ 150, 150, 150 ], 
+				]
+			},
+			{
+				"Name": "Ribbons",
+				"Values": [
+					[ 253, 253, 253 ],
+					[ 219, 219, 219 ],
+					[ 199, 199, 199 ],
+					[ 149, 149, 149 ], 
+					[ 119, 119, 119 ], 
+				]
+			},
+			{
+				"Name": "Roses",
+				"Values": [
+					[ 252, 252, 252 ],
+				]
+			},
+			{
+				"Name": "Shadow", 
+				"IgnoreUserColorChoice": true,
+				"Values": [
+					[ 50, 50, 50 ],
+				]
+			}
+		],
+	},
+}

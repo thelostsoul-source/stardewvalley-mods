@@ -1,0 +1,67 @@
+{
+	"Name": "Gothic Party Hat",
+	"FrontHat":
+	{
+		"StartingPosition": {
+			"X": 0,
+			"Y": 0
+		},
+		"HeadPosition": {
+			"X": 2,
+			"Y": 2
+		},
+		"HatSize": {
+			"Width": 24,
+			"Length": 24
+		},
+		"DisableGrayscale": true,
+	},
+	"RightHat":
+	{
+		"StartingPosition": {
+			"X": 0,
+			"Y": 24
+		},
+		"HeadPosition": {
+			"X": 2,
+			"Y": 2
+		},
+		"HatSize": {
+			"Width": 24,
+			"Length": 24
+		},
+		"DisableGrayscale": true,
+	},
+	"LeftHat":
+	{
+		"StartingPosition": {
+			"X": 0,
+			"Y": 48
+		},
+		"HeadPosition": {
+			"X": 0,
+			"Y": 2
+		},
+		"HatSize": {
+			"Width": 24,
+			"Length": 24
+		},
+		"DisableGrayscale": true,
+	},
+	"BackHat":
+	{
+		"StartingPosition": {
+			"X": 0,
+			"Y": 72
+		},
+		"HeadPosition": {
+			"X": 1,
+			"Y": 1
+		},
+		"HatSize": {
+			"Width": 24,
+			"Length": 24
+		},
+		"DisableGrayscale": true,
+	},
+}

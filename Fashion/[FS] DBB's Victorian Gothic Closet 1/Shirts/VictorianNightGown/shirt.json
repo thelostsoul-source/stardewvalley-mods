@@ -1,0 +1,1580 @@
+{
+	"Name": "Victorian Nightgown",
+	"FrontShirt": {
+		"StartingPosition": {
+			"X": 0,
+			"Y": 0
+		},
+		"BodyPosition": {
+			"X": 4,
+			"Y": 14
+		},
+		"ShirtSize": {
+			"Width": 16,
+			"Length": 32
+		},
+		"HideWhileSwimming": true,
+		"HideWhileBathingSuit": true,
+		"DisableGrayscale": true,
+		"UniformAnimation": [
+			{
+				"Frame": 0,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 0
+					}
+				]
+			},
+			{
+				"Frame": 1,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 1
+					}
+				]
+			},
+			{
+				"Frame": 2,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 2
+					}
+				]
+			},
+			{
+				"Frame": 3,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 3
+					}
+				]
+			},
+			{
+				"Frame": 4,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 4
+					}
+				]
+			},
+			{
+				"Frame": 5,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 5
+					}
+				]
+			},
+			{
+				"Frame": 6,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 10
+					}
+				]
+			},
+			{
+				"Frame": 7,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 16
+					}
+				]
+			},
+			{
+				"Frame": 8,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 18
+					}
+				]
+			},
+			{
+				"Frame": 9,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 19
+					}
+				]
+			},
+			{
+				"Frame": 10,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 24
+					}
+				]
+			},
+			{
+				"Frame": 11,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 25
+					}
+				]
+			},
+			{
+				"Frame": 12,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 26
+					}
+				]
+			},
+			{
+				"Frame": 13,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 27
+					}
+				]
+			},
+			{
+				"Frame": 14,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 28
+					}
+				]
+			},
+			{
+				"Frame": 15,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 29
+					}
+				]
+			},
+			{
+				"Frame": 16,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 42
+					}
+				]
+			},
+			{
+				"Frame": 17,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 54
+					}
+				]
+			},
+			{
+				"Frame": 18,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 55
+					}
+				]
+			},
+			{
+				"Frame": 19,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 56
+					}
+				]
+			},
+			{
+				"Frame": 20,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 57
+					}
+				]
+			},
+			{
+				"Frame": 21,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 66
+					}
+				]
+			},
+			{
+				"Frame": 22,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 67
+					}
+				]
+			},
+			{
+				"Frame": 23,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 68
+					}
+				]
+			},
+			{
+				"Frame": 24,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 69
+					}
+				]
+			},
+			{
+				"Frame": 25,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 70
+					}
+				]
+			},
+			{
+				"Frame": 26,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 74
+					}
+				]
+			},
+			{
+				"Frame": 27,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 75
+					}
+				]
+			},
+			{
+				"Frame": 28,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 78
+					}
+				]
+			},
+			{
+				"Frame": 29,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 79
+					}
+				]
+			},
+			{
+				"Frame": 30,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 84
+					}
+				]
+			},
+			{
+				"Frame": 31,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 85
+					}
+				]
+			},
+			{
+				"Frame": 32,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 86
+					}
+				]
+			},
+			{
+				"Frame": 33,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 87
+					}
+				]
+			},
+			{
+				"Frame": 34,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 88
+					}
+				]
+			},
+			{
+				"Frame": 35,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 90
+					}
+				]
+			},
+			{
+				"Frame": 36,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 91
+					}
+				]
+			},
+			{
+				"Frame": 37,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 92
+					}
+				]
+			},
+			{
+				"Frame": 38,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 93
+					}
+				]
+			},
+			{
+				"Frame": 39,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 94
+					}
+				]
+			},
+			{
+				"Frame": 40,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 95
+					}
+				]
+			},
+			{
+				"Frame": 41,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 96
+					}
+				]
+			},
+			{
+				"Frame": 42,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 98
+					}
+				]
+			},
+			{
+				"Frame": 43,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 99
+					}
+				]
+			},
+			{
+				"Frame": 44,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 100
+					}
+				]
+			},
+			{
+				"Frame": 45,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 102
+					}
+				]
+			},
+			{
+				"Frame": 46,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 103
+					}
+				]
+			},
+			{
+				"Frame": 47,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 104
+					}
+				]
+			},
+			{
+				"Frame": 48,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 105
+					}
+				]
+			},
+			{
+				"Frame": 49,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 107
+					}
+				]
+			},
+			{
+				"Frame": 53,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 123
+					}
+				]
+			},
+			{
+				"Frame": 54,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 124
+					}
+				]
+			},
+			{
+				"Frame": 55,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 125
+					}
+				]
+			},
+		]
+	},
+	"RightShirt": {
+		"StartingPosition": {
+			"X": 0,
+			"Y": 0
+		},
+		"BodyPosition": {
+			"X": 4,
+			"Y": 14
+		},
+		"ShirtSize": {
+			"Width": 16,
+			"Length": 32
+		},
+		"HideWhileSwimming": true,
+		"HideWhileBathingSuit": true,
+		"DisableGrayscale": true,
+		"UniformAnimation": [
+			{
+				"Frame": 61,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 6
+					}
+				]
+			},
+			{
+				"Frame": 62,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 7
+					}
+				]
+			},
+			{
+				"Frame": 63,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 8
+					}
+				]
+			},
+			{
+				"Frame": 64,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 9
+					}
+				]
+			},
+			{
+				"Frame": 65,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 11
+					}
+				]
+			},
+			{
+				"Frame": 66,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 17
+					}
+				]
+			},
+			{
+				"Frame": 67,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 20
+					}
+				]
+			},
+			{
+				"Frame": 68,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 21
+					}
+				]
+			},
+			{
+				"Frame": 69,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 30
+					}
+				]
+			},
+			{
+				"Frame": 70,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 31
+					}
+				]
+			},
+			{
+				"Frame": 71,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 32
+					}
+				]
+			},
+			{
+				"Frame": 72,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 33
+					}
+				]
+			},
+			{
+				"Frame": 73,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 34
+					}
+				]
+			},
+			{
+				"Frame": 74,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 35
+					}
+				]
+			},
+			{
+				"Frame": 75,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 43
+					}
+				]
+			},
+			{
+				"Frame": 76,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 45
+					}
+				]
+			},
+			{
+				"Frame": 77,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 48
+					}
+				]
+			},
+			{
+				"Frame": 78,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 49
+					}
+				]
+			},
+			{
+				"Frame": 79,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 50
+					}
+				]
+			},
+			{
+				"Frame": 80,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 51
+					}
+				]
+			},
+			{
+				"Frame": 81,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 52
+					}
+				]
+			},
+			{
+				"Frame": 82,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 58
+					}
+				]
+			},
+			{
+				"Frame": 83,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 59
+					}
+				]
+			},
+			{
+				"Frame": 84,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 60
+					}
+				]
+			},
+			{
+				"Frame": 85,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 61
+					}
+				]
+			},
+			{
+				"Frame": 86,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 72
+					}
+				]
+			},
+			{
+				"Frame": 87,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 73
+					}
+				]
+			},
+			{
+				"Frame": 88,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 80
+					}
+				]
+			},
+			{
+				"Frame": 89,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 81
+					}
+				]
+			},
+			{
+				"Frame": 90,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 89
+					}
+				]
+			},
+			{
+				"Frame": 91,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 97
+					}
+				]
+			},
+			{
+				"Frame": 92,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 101
+					}
+				]
+			},
+			{
+				"Frame": 93,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 106
+					}
+				]
+			},
+			{
+				"Frame": 94,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 111
+					}
+				]
+			},
+			{
+				"Frame": 95,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 112
+					}
+				]
+			},
+			{
+				"Frame": 99,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 117
+					}
+				]
+			},
+		]
+	},
+	"LeftShirt": {
+		"StartingPosition": {
+			"X": 0,
+			"Y": 0
+		},
+		"BodyPosition": {
+			"X": 4,
+			"Y": 14
+		},
+		"ShirtSize": {
+			"Width": 16,
+			"Length": 32
+		},
+		"Flipped": true,
+		"HideWhileSwimming": true,
+		"HideWhileBathingSuit": true,
+		"DisableGrayscale": true,
+		"UniformAnimation": [
+			{
+				"Frame": 61,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 6
+					}
+				]
+			},
+			{
+				"Frame": 62,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 7
+					}
+				]
+			},
+			{
+				"Frame": 63,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 8
+					}
+				]
+			},
+			{
+				"Frame": 64,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 9
+					}
+				]
+			},
+			{
+				"Frame": 65,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 11
+					}
+				]
+			},
+			{
+				"Frame": 66,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 17
+					}
+				]
+			},
+			{
+				"Frame": 67,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 20
+					}
+				]
+			},
+			{
+				"Frame": 68,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 21
+					}
+				]
+			},
+			{
+				"Frame": 69,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 30
+					}
+				]
+			},
+			{
+				"Frame": 70,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 31
+					}
+				]
+			},
+			{
+				"Frame": 71,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 32
+					}
+				]
+			},
+			{
+				"Frame": 72,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 33
+					}
+				]
+			},
+			{
+				"Frame": 73,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 34
+					}
+				]
+			},
+			{
+				"Frame": 74,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 35
+					}
+				]
+			},
+			{
+				"Frame": 75,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 43
+					}
+				]
+			},
+			{
+				"Frame": 76,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 45
+					}
+				]
+			},
+			{
+				"Frame": 77,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 48
+					}
+				]
+			},
+			{
+				"Frame": 78,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 49
+					}
+				]
+			},
+			{
+				"Frame": 79,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 50
+					}
+				]
+			},
+			{
+				"Frame": 80,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 51
+					}
+				]
+			},
+			{
+				"Frame": 81,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 52
+					}
+				]
+			},
+			{
+				"Frame": 82,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 58
+					}
+				]
+			},
+			{
+				"Frame": 83,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 59
+					}
+				]
+			},
+			{
+				"Frame": 84,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 60
+					}
+				]
+			},
+			{
+				"Frame": 85,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 61
+					}
+				]
+			},
+			{
+				"Frame": 86,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 72
+					}
+				]
+			},
+			{
+				"Frame": 87,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 73
+					}
+				]
+			},
+			{
+				"Frame": 88,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 80
+					}
+				]
+			},
+			{
+				"Frame": 89,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 81
+					}
+				]
+			},
+			{
+				"Frame": 90,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 89
+					}
+				]
+			},
+			{
+				"Frame": 91,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 97
+					}
+				]
+			},
+			{
+				"Frame": 92,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 101
+					}
+				]
+			},
+			{
+				"Frame": 93,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 106
+					}
+				]
+			},
+			{
+				"Frame": 94,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 111
+					}
+				]
+			},
+			{
+				"Frame": 95,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 112
+					}
+				]
+			},
+			{
+				"Frame": 99,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 117
+					}
+				]
+			},
+		]
+	},
+	"BackShirt": {
+		"StartingPosition": {
+			"X": 0,
+			"Y": 0
+		},
+		"BodyPosition": {
+			"X": 4,
+			"Y": 14
+		},
+		"ShirtSize": {
+			"Width": 16,
+			"Length": 32
+		},
+		"HideWhileSwimming": true,
+		"HideWhileBathingSuit": true,
+		"DisableGrayscale": true,
+		"UniformAnimation": [
+			{
+				"Frame": 121,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 12
+					}
+				]
+			},
+			{
+				"Frame": 122,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 13
+					}
+				]
+			},
+			{
+				"Frame": 123,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 14
+					}
+				]
+			},
+			{
+				"Frame": 124,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 15
+					}
+				]
+			},
+			{
+				"Frame": 125,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 22
+					}
+				]
+			},
+			{
+				"Frame": 126,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 23
+					}
+				]
+			},
+			{
+				"Frame": 127,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 36
+					}
+				]
+			},
+			{
+				"Frame": 128,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 37
+					}
+				]
+			},
+			{
+				"Frame": 129,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 38
+					}
+				]
+			},
+			{
+				"Frame": 130,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 39
+					}
+				]
+			},
+			{
+				"Frame": 131,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 40
+					}
+				]
+			},
+			{
+				"Frame": 132,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 41
+					}
+				]
+			},
+			{
+				"Frame": 133,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 44
+					}
+				]
+			},
+			{
+				"Frame": 134,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 46
+					}
+				]
+			},
+			{
+				"Frame": 135,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 53
+					}
+				]
+			},
+			{
+				"Frame": 136,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 62
+					}
+				]
+			},
+			{
+				"Frame": 137,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 63
+					}
+				]
+			},
+			{
+				"Frame": 138,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 64
+					}
+				]
+			},
+			{
+				"Frame": 139,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 65
+					}
+				]
+			},
+			{
+				"Frame": 140,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 71
+					}
+				]
+			},
+			{
+				"Frame": 141,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 76
+					}
+				]
+			},
+			{
+				"Frame": 142,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 77
+					}
+				]
+			},
+			{
+				"Frame": 143,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 82
+					}
+				]
+			},
+			{
+				"Frame": 144,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 83
+					}
+				]
+			},
+			{
+				"Frame": 145,
+				"EndWhenFarmerFrameUpdates": true,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 113
+					}
+				]
+			},
+		]
+	},
+}

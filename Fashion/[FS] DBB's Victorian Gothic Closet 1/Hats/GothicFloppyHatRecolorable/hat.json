@@ -1,0 +1,163 @@
+{
+	"Name": "Gothic Floppy Hat (Recolorable)",
+	"FrontHat":
+	{
+		"StartingPosition": {
+			"X": 0,
+			"Y": 0
+		},
+		"HeadPosition": {
+			"X": 2,
+			"Y": 3
+		},
+		"HatSize": {
+			"Width": 24,
+			"Length": 24
+		},
+		"ColorMaskLayers": [
+			{
+				"Name": "Rose",
+				"Values": [ 
+					[ 254, 254, 254 ],
+					[ 200, 200, 200 ],
+					[ 150, 150, 150 ],
+					[ 100, 100, 100 ],
+				]
+			},
+			{
+				"Name": "Base", 
+				"IgnoreUserColorChoice": true,
+				"Values": [
+					[ 49, 46, 57 ],
+					[ 20, 4, 7 ],
+					[ 32, 14, 26 ],
+					[ 37, 28, 41 ],
+					[ 44, 34, 46 ],
+					[ 46, 40, 51 ],
+					[ 49, 46, 57 ],
+					[ 70, 67, 85 ],
+				]
+			},
+		],
+	},
+	"RightHat":
+	{
+		"StartingPosition": {
+			"X": 0,
+			"Y": 24
+		},
+		"HeadPosition": {
+			"X": 2,
+			"Y": 3
+		},
+		"HatSize": {
+			"Width": 24,
+			"Length": 24
+		},
+		"ColorMaskLayers": [
+			{
+				"Name": "Rose",
+				"Values": [ 
+					[ 254, 254, 254 ],
+					[ 200, 200, 200 ],
+					[ 150, 150, 150 ],
+					[ 100, 100, 100 ],
+				]
+			},
+			{
+				"Name": "Base", 
+				"IgnoreUserColorChoice": true,
+				"Values": [
+					[ 49, 46, 57 ],
+					[ 20, 4, 7 ],
+					[ 32, 14, 26 ],
+					[ 37, 28, 41 ],
+					[ 44, 34, 46 ],
+					[ 46, 40, 51 ],
+					[ 49, 46, 57 ],
+					[ 70, 67, 85 ],
+				]
+			},
+		],
+	},
+	"LeftHat":
+	{
+		"StartingPosition": {
+			"X": 0,
+			"Y": 48
+		},
+		"HeadPosition": {
+			"X": 1,
+			"Y": 3
+		},
+		"HatSize": {
+			"Width": 24,
+			"Length": 24
+		},
+		"ColorMaskLayers": [
+			{
+				"Name": "Rose",
+				"Values": [ 
+					[ 254, 254, 254 ],
+					[ 200, 200, 200 ],
+					[ 150, 150, 150 ],
+					[ 100, 100, 100 ],
+				]
+			},
+			{
+				"Name": "Base", 
+				"IgnoreUserColorChoice": true,
+				"Values": [
+					[ 49, 46, 57 ],
+					[ 20, 4, 7 ],
+					[ 32, 14, 26 ],
+					[ 37, 28, 41 ],
+					[ 44, 34, 46 ],
+					[ 46, 40, 51 ],
+					[ 49, 46, 57 ],
+					[ 70, 67, 85 ],
+				]
+			},
+		],
+	},
+	"BackHat":
+	{
+		"StartingPosition": {
+			"X": 0,
+			"Y": 72
+		},
+		"HeadPosition": {
+			"X": 2,
+			"Y": 3
+		},
+		"HatSize": {
+			"Width": 24,
+			"Length": 24
+		},
+	},
+		"ColorMaskLayers": [
+			{
+				"Name": "Rose",
+				"Values": [ 
+					[ 254, 254, 254 ],
+					[ 200, 200, 200 ],
+					[ 150, 150, 150 ],
+					[ 100, 100, 100 ],
+				]
+			},
+			{
+				"Name": "Base", 
+				"IgnoreUserColorChoice": true,
+				"Values": [
+					[ 49, 46, 57 ],
+					[ 20, 4, 7 ],
+					[ 32, 14, 26 ],
+					[ 37, 28, 41 ],
+					[ 44, 34, 46 ],
+					[ 46, 40, 51 ],
+					[ 49, 46, 57 ],
+					[ 70, 67, 85 ],
+				]
+			},
+		],
+}

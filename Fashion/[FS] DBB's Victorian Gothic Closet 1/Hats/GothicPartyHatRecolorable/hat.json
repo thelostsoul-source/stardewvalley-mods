@@ -1,0 +1,155 @@
+{
+	"Name": "Gothic Party Hat (Recolorable)",
+	"FrontHat":
+	{
+		"StartingPosition": {
+			"X": 0,
+			"Y": 0
+		},
+		"HeadPosition": {
+			"X": 2,
+			"Y": 2
+		},
+		"HatSize": {
+			"Width": 24,
+			"Length": 24
+		},
+		"ColorMaskLayers": [
+			{
+				"Name": "Bow",
+				"Values": [ 
+					[ 254, 254, 254 ],
+					[ 200, 200, 200 ],
+					[ 150, 150, 150 ],
+					[ 100, 100, 100 ],
+				]
+			},
+			{
+				"Name": "Base", 
+				"IgnoreUserColorChoice": true,
+				"Values": [
+					[ 20, 4, 7 ],
+					[ 35, 9, 32 ],
+					[ 35, 26, 38 ],
+					[ 44, 34, 46 ],
+					[ 49, 46, 57 ],
+					[ 26, 13, 32 ],
+				]
+			},
+		],
+	},
+	"RightHat":
+	{
+		"StartingPosition": {
+			"X": 0,
+			"Y": 24
+		},
+		"HeadPosition": {
+			"X": 2,
+			"Y": 2
+		},
+		"HatSize": {
+			"Width": 24,
+			"Length": 24
+		},
+		"ColorMaskLayers": [
+			{
+				"Name": "Bow",
+				"Values": [ 
+					[ 254, 254, 254 ],
+					[ 200, 200, 200 ],
+					[ 150, 150, 150 ],
+					[ 100, 100, 100 ],
+				]
+			},
+			{
+				"Name": "Base", 
+				"IgnoreUserColorChoice": true,
+				"Values": [
+					[ 20, 4, 7 ],
+					[ 35, 9, 32 ],
+					[ 35, 26, 38 ],
+					[ 44, 34, 46 ],
+					[ 49, 46, 57 ],
+					[ 26, 13, 32 ],
+				]
+			},
+		],
+	},
+	"LeftHat":
+	{
+		"StartingPosition": {
+			"X": 0,
+			"Y": 48
+		},
+		"HeadPosition": {
+			"X": 0,
+			"Y": 2
+		},
+		"HatSize": {
+			"Width": 24,
+			"Length": 24
+		},
+		"ColorMaskLayers": [
+			{
+				"Name": "Bow",
+				"Values": [ 
+					[ 254, 254, 254 ],
+					[ 200, 200, 200 ],
+					[ 150, 150, 150 ],
+					[ 100, 100, 100 ],
+				]
+			},
+			{
+				"Name": "Base", 
+				"IgnoreUserColorChoice": true,
+				"Values": [
+					[ 20, 4, 7 ],
+					[ 35, 9, 32 ],
+					[ 35, 26, 38 ],
+					[ 44, 34, 46 ],
+					[ 49, 46, 57 ],
+					[ 26, 13, 32 ],
+				]
+			},
+		],
+	},
+	"BackHat":
+	{
+		"StartingPosition": {
+			"X": 0,
+			"Y": 72
+		},
+		"HeadPosition": {
+			"X": 1,
+			"Y": 1
+		},
+		"HatSize": {
+			"Width": 24,
+			"Length": 24
+		},
+		"ColorMaskLayers": [
+			{
+				"Name": "Bow",
+				"Values": [ 
+					[ 254, 254, 254 ],
+					[ 200, 200, 200 ],
+					[ 150, 150, 150 ],
+					[ 100, 100, 100 ],
+				]
+			},
+			{
+				"Name": "Base", 
+				"IgnoreUserColorChoice": true,
+				"Values": [
+					[ 20, 4, 7 ],
+					[ 35, 9, 32 ],
+					[ 35, 26, 38 ],
+					[ 44, 34, 46 ],
+					[ 49, 46, 57 ],
+					[ 26, 13, 32 ],
+				]
+			},
+		],
+	},
+}

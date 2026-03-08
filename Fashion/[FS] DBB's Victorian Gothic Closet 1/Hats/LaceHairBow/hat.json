@@ -1,0 +1,544 @@
+{
+	"Name": "Lace Hair Bow",
+	"FrontHat":
+	{
+		"StartingPosition": {
+			"X": 0,
+			"Y": 0
+		},
+		"HeadPosition": {
+			"X": 2,
+			"Y": 1
+		},
+		"HatSize": {
+			"Width": 24,
+			"Length": 24
+		},
+		"DrawOrderOverride": {
+			"Preposition": "Before",
+			"AppearanceType": "Player",
+		},
+		"DisableGrayscale": true,
+		"IdleAnimation": [
+			{
+				"Frame": 0,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 0,
+					}
+				]
+			},
+			{
+				"Frame": 3,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 56,
+					}
+				]
+			},
+			{
+				"Frame": 4,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 69,
+					}
+				]
+			},
+			{
+				"Frame": 5,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 94,
+					}
+				]
+			},
+		],
+		"MovementAnimation": [
+			{
+				"Frame": 0,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsWalking",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 1,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsWalking",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 0,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsWalking",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 2,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsWalking",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 0,
+				"Duration": 100,
+				"Conditions": [
+					{
+						"Name": "IsRunning",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 1,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsRunning",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 0,
+				"Duration": 100,
+				"Conditions": [
+					{
+						"Name": "IsRunning",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 2,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsRunning",
+						"Value": true,
+					}
+				]
+			},
+		],
+	},
+	"RightHat":
+	{
+		"StartingPosition": {
+			"X": 0,
+			"Y": 24
+		},
+		"HeadPosition": {
+			"X": 8,
+			"Y": 1
+		},
+		"HatSize": {
+			"Width": 24,
+			"Length": 24
+		},
+		"DisableGrayscale": true,
+		"IdleAnimation": [
+			{
+				"Frame": 0,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 6,
+					}
+				]
+			},
+			{
+				"Frame": 7,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 50,
+					}
+				]
+			},
+			{
+				"Frame": 8,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 51,
+					}
+				]
+			},
+			{
+				"Frame": 9,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 52,
+					}
+				]
+			},
+		],
+		"MovementAnimation": [
+			{
+				"Frame": 0,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsWalking",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 1,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsWalking",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 0,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsWalking",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 1,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsWalking",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 6,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsRunning",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 4,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsRunning",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 5,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsRunning",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 4,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsRunning",
+						"Value": true,
+					}
+				]
+			},
+		],
+	},
+	"LeftHat":
+	{
+		"StartingPosition": {
+			"X": 0,
+			"Y": 24
+		},
+		"HeadPosition": {
+			"X": -4,
+			"Y": 1
+		},
+		"HatSize": {
+			"Width": 24,
+			"Length": 24
+		},
+		"Flipped": true,
+		"DisableGrayscale": true,
+		"IdleAnimation": [
+			{
+				"Frame": 0,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 6,
+					}
+				]
+			},
+			{
+				"Frame": 7,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 50,
+					}
+				]
+			},
+			{
+				"Frame": 8,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 51,
+					}
+				]
+			},
+			{
+				"Frame": 9,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 52,
+					}
+				]
+			},
+		],
+		"MovementAnimation": [
+			{
+				"Frame": 0,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsWalking",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 1,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsWalking",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 0,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsWalking",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 1,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsWalking",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 6,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsRunning",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 4,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsRunning",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 5,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsRunning",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 4,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsRunning",
+						"Value": true,
+					}
+				]
+			},
+		],
+	
+	},
+	"BackHat":
+	{
+		"StartingPosition": {
+			"X": 0,
+			"Y": 48
+		},
+		"HeadPosition": {
+			"X": 2,
+			"Y": 1
+		},
+		"HatSize": {
+			"Width": 24,
+			"Length": 24
+		},
+		"DisableGrayscale": true,
+		"IdleAnimation": [
+			{
+				"Frame": 0,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 12,
+					}
+				]
+			},
+			{
+				"Frame": 7,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 62,
+					}
+				]
+			},
+			{
+				"Frame": 8,
+				"Conditions": [
+					{
+						"Name": "CurrentFarmerFrame",
+						"Value": 63,
+					}
+				]
+			},
+		],
+		"MovementAnimation": [
+			{
+				"Frame": 0,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsWalking",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 1,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsWalking",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 0,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsWalking",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 2,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsWalking",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 0,
+				"Duration": 100,
+				"Conditions": [
+					{
+						"Name": "IsRunning",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 1,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsRunning",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 0,
+				"Duration": 100,
+				"Conditions": [
+					{
+						"Name": "IsRunning",
+						"Value": true,
+					}
+				]
+			},
+			{
+				"Frame": 2,
+				"Duration": 200,
+				"Conditions": [
+					{
+						"Name": "IsRunning",
+						"Value": true,
+					}
+				]
+			},
+		],
+	},
+}

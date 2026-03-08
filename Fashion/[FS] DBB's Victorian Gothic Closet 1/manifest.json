@@ -1,0 +1,11 @@
+{
+	"Name": "DBB's Victorian Gothic Closet 1",
+	"Author": "DBB",
+	"Version": "1.0.5",
+	"Description": "Adds a few victorian gothic theme clothes",
+	"UniqueID": "DBB.VictorianGothicCloset.1",
+	"ContentPackFor": {
+		"UniqueID": "PeacefulEnd.FashionSense"
+	},
+	"UpdateKeys": [ "Nexus:36615" ],
+}

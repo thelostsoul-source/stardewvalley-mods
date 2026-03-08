@@ -1,0 +1,67 @@
+{
+	"Name": "Gothic Lolita Headband",
+	"FrontHat":
+	{
+		"StartingPosition": {
+			"X": 0,
+			"Y": 0
+		},
+		"HeadPosition": {
+			"X": -2,
+			"Y": 0
+		},
+		"HatSize": {
+			"Width": 16,
+			"Length": 16
+		},
+		"DisableGrayscale": true,
+	},
+	"RightHat":
+	{
+		"StartingPosition": {
+			"X": 0,
+			"Y": 16
+		},
+		"HeadPosition": {
+			"X": -3,
+			"Y": -1
+		},
+		"HatSize": {
+			"Width": 16,
+			"Length": 16
+		},
+		"DisableGrayscale": true,
+	},
+	"LeftHat":
+	{
+		"StartingPosition": {
+			"X": 0,
+			"Y": 32
+		},
+		"HeadPosition": {
+			"X": -3,
+			"Y": -1
+		},
+		"HatSize": {
+			"Width": 16,
+			"Length": 16
+		},
+		"DisableGrayscale": true,
+	},
+	"BackHat":
+	{
+		"StartingPosition": {
+			"X": 0,
+			"Y": 48
+		},
+		"HeadPosition": {
+			"X": -2,
+			"Y": 0
+		},
+		"HatSize": {
+			"Width": 16,
+			"Length": 16
+		},
+		"DisableGrayscale": true,
+	},
+}
