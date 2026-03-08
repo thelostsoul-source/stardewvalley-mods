@@ -17,6 +17,12 @@ Monyo, robeta, accessoris...
 ### FashionSense
 https://www.nexusmods.com/stardewvalley/mods/9969
 
+### [CP] Coii's Hair Sets Pack
+https://www.nexusmods.com/stardewvalley/mods/2869
+
+Requerits:
+- Content Patcher
+
 ### [FS] Mandu's 4 Male Hairstyles
 https://www.nexusmods.com/stardewvalley/mods/27602
 
