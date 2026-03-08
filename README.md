@@ -59,3 +59,55 @@ https://www.nexusmods.com/stardewvalley/mods/10295
 
 Requerits:
 - Fashion Sense
+
+## Informatiu
+
+### BetterRanching
+https://www.nexusmods.com/stardewvalley/mods/859
+
+### NPCMapLocations
+https://www.nexusmods.com/stardewvalley/mods/239
+
+## Inventari
+
+### BiggerBackpack
+https://www.nexusmods.com/stardewvalley/mods/1845
+
+Requerits:
+- StardewHack
+
+### ConvenientInventory
+https://www.nexusmods.com/stardewvalley/mods/10384
+
+## Jugabilitat
+
+### CustomKissingMod
+https://www.nexusmods.com/stardewvalley/mods/4664
+
+Requerits:
+- Generic Mod Config Menu
+
+### FriendsForever
+https://www.nexusmods.com/stardewvalley/mods/1738
+
+### RangeHighlight
+https://www.nexusmods.com/stardewvalley/mods/6752
+
+Requerits:
+- Generic Mod Config Menu
+
+### SittingRestoresEnergy
+
+Requerits:
+- Generic Mod Config Menu
+
+### WearMoreRings
+https://www.nexusmods.com/stardewvalley/mods/3214
+
+Requerits:
+- Generic Mod Config Menu
+- StardewHack
+
+## Requerits
+
+### 
