@@ -1,0 +1,13 @@
+﻿{
+  "Name": "[FS] Mandu's 3 Male Hairstyles",
+  "Author": "Mandu",
+  "Version": "1.0.0",
+  "UniqueID": "luyepiaofeng.Mandu3MaleHairstyles",
+  "UpdateKeys": ["Nexus:"],
+  "Description": "4 new male haristyles from mandu",
+  "MinimumApiVersion": "4.0.0",
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.FashionSense",
+    "MinimumVersion": "6.6.0"
+  }
+}
