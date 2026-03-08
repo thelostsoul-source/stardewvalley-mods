@@ -66,6 +66,12 @@ https://www.nexusmods.com/stardewvalley/mods/10295
 Requerits:
 - Fashion Sense
 
+### [FS] DBB's Victorian Gothic Closet 1
+https://www.nexusmods.com/stardewvalley/mods/36615
+
+Requerits:
+- Fashion Sense
+
 ## Informatiu
 
 ### BetterRanching
