@@ -122,8 +122,6 @@ Requerits:
 
 ## Requerits
 
-### ConsoleCommands
-
 ### ContentPatcher
 https://www.nexusmods.com/stardewvalley/mods/1915
 
@@ -133,8 +131,6 @@ https://www.nexusmods.com/stardewvalley/mods/6529
 ### JsonAssets
 https://www.nexusmods.com/stardewvalley/mods/1720
 
-### SaveBackup
-
 ### SpaceCore
 https://www.nexusmods.com/stardewvalley/mods/1348
 
@@ -143,3 +139,7 @@ https://www.nexusmods.com/stardewvalley/mods/3213
 
 ### GenericModConfigMenu
 https://www.nexusmods.com/stardewvalley/mods/5098
+
+## SMAPI
+### ConsoleCommands
+### SaveBackup
