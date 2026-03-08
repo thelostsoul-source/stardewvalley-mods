@@ -110,4 +110,21 @@ Requerits:
 
 ## Requerits
 
-### 
+### ConsoleCommands
+
+### ContentPatcher
+https://www.nexusmods.com/stardewvalley/mods/1915
+
+### ExpandedPreconditionsUtility
+https://www.nexusmods.com/stardewvalley/mods/6529
+
+### JsonAssets
+https://www.nexusmods.com/stardewvalley/mods/1720
+
+### SaveBackup
+
+### SpaceCore
+https://www.nexusmods.com/stardewvalley/mods/1348
+
+### StardewHack
+https://www.nexusmods.com/stardewvalley/mods/3213
