@@ -1,0 +1,27 @@
+[Installation path guidance]
+
+
+Please install a folder in the compressed file to the folder
+[C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods].
+(*** Require installation of Content Patcher mod ***)
+
+----------------------------------------------------------------------------------------------------
+
+* There are 'long' hair version and 'short' hair version PNG files in the 'assets' folder.
+
+* For long hair, there are 12 different hair shapes with two versions of the bangs for each.(Num.17~40)
+For short hair, 25 hair shapes include different versions of texture for each appearance except some.(Num.1~40)
+
+* The default file is a 'short' hair file and you can apply hair that you want by opening the 'config.json' file on notepad and modifying text to a name of a file that you want to apply in 'assets' folder. ( ex."Style" : "long" )
+
+* Certain hair types may appear cut on the character creation screen, but they will appear normal while playing game.
+
+* Hair of both versions can be applied regardless of gender.
+
+* The change of hairstyles when wearing a hat is set by the game system.
+If you want to wear a hat with hair you want, please download 'Hats Won't Mess Up Hair' mod made by 'misatse1019', apply it and acquire new hats. Please refer to the description provided on the mod page.
+You can find a link to this mod pages in the body.
+
+----------------------------------------------------------------------------------------------------
+
+*** UNAUTHORIZED MODIFICATION OR REDISTRIBUTION STRICTLY PROHIBITED ***
