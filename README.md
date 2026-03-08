@@ -128,3 +128,6 @@ https://www.nexusmods.com/stardewvalley/mods/1348
 
 ### StardewHack
 https://www.nexusmods.com/stardewvalley/mods/3213
+
+### GenericModConfigMenu
+https://www.nexusmods.com/stardewvalley/mods/5098
