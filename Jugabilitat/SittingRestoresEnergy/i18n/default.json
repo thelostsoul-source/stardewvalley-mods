@@ -1,0 +1,22 @@
+{
+    "DylanJames.Stamina.Config.Section.Gameplay": "Gameplay",
+
+    "DylanJames.Stamina.Config.EnergyPerSecond.Name": "Recovery Amount",
+    "DylanJames.Stamina.Config.EnergyPerSecond.Tooltip": "How much energy is restored each interval while sitting.",
+
+    "DylanJames.Stamina.Config.TickRateSeconds.Name": "Recovery Interval (Seconds)",
+    "DylanJames.Stamina.Config.TickRateSeconds.Tooltip": "How many seconds pass between each energy restoration while sitting.",
+
+    "DylanJames.Stamina.Config.MaxEnergyRecovery.Name": "Recovery Limit (Percentage)",
+    "DylanJames.Stamina.Config.MaxEnergyRecovery.Tooltip": "The maximum percentage of total energy that can be restored by sitting.",
+
+    "DylanJames.Stamina.Config.Section.Location": "Location",
+
+    "DylanJames.Stamina.Config.EnableIndoors.Name": "Enable Indoors",
+    "DylanJames.Stamina.Config.EnableIndoors.Tooltip": "Restore energy while sitting indoors.",
+
+    "DylanJames.Stamina.Config.EnableOutdoors.Name": "Enable Outdoors",
+    "DylanJames.Stamina.Config.EnableOutdoors.Tooltip": "Restore energy while sitting outdoors.",
+
+    "DylanJames.Stamina.Config.Note.Text": "These settings are for nerds and advanced users. Only modify them if you want to manually balance the mod for yourself. To undo changes, click 'Default' at the bottom of the screen."
+}

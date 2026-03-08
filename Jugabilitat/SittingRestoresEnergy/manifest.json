@@ -1,0 +1,12 @@
+{
+  "Name": "Sitting Restores Energy",
+  "Author": "Dylan James",
+  "Version": "0.0.6",
+  "Description": "Passively restore energy while sitting.",
+  "UniqueID": "dylanjames.sittingrestoresenergy",
+  "EntryDll": "SittingRestoresEnergy.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [
+    "Nexus:42891"
+  ]
+}
