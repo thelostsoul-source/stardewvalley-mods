@@ -1,0 +1,13 @@
+{
+  "Name": "De tot un poc",
+  "Author": "Dahlia",
+  "Version": "1.0.0",
+  "UniqueID": "dahlia.DeTotUnPoc",
+  "UpdateKeys": ["Nexus:"],
+  "Description": "De tot un poc",
+  "MinimumApiVersion": "4.0.0",
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.FashionSense",
+    "MinimumVersion": "6.6.0"
+  }
+}
