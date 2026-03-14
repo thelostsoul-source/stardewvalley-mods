@@ -1,0 +1,83 @@
+{
+    "Name": "S6 Sweater",
+    "FrontShirt": {
+        "DisableGrayscale": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 8
+        },
+        "SleeveColors": [
+            [72,22,22],
+            [112,28,28],
+            [112,28,28]
+        ]
+    },
+    "RightShirt": {
+        "DisableGrayscale": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 9
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 8
+        },
+        "SleeveColors": [
+            [72,22,22],
+            [112,28,28],
+            [112,28,28]
+        ]
+    },
+    "LeftShirt": {
+        "DisableGrayscale": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 17
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 8
+        },
+        "SleeveColors": [
+            [72,22,22],
+            [112,28,28],
+            [112,28,28]
+        ]
+    },
+    "BackShirt": {
+        "DisableGrayscale": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 25
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": -1
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 7
+        },
+        "SleeveColors": [
+            [72,22,22],
+            [112,28,28],
+            [112,28,28]
+        ]
+    }
+}

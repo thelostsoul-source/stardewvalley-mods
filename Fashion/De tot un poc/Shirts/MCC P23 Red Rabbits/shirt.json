@@ -1,0 +1,83 @@
+{
+    "Name": "MCC P23 Red Rabbits",
+    "FrontShirt": {
+        "DisableGrayscale": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 8
+        },
+        "SleeveColors": [
+            [158,8,62],
+            [225,58,73],
+            [215,0,55]
+        ]
+    },
+    "RightShirt": {
+        "DisableGrayscale": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 9
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 7
+        },
+        "SleeveColors": [
+            [158,8,62],
+            [225,58,73],
+            [215,0,55]
+        ]
+    },
+    "LeftShirt": {
+        "DisableGrayscale": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 17
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 7
+        },
+        "SleeveColors": [
+            [158,8,62],
+            [225,58,73],
+            [215,0,55]
+        ]
+    },
+    "BackShirt": {
+        "DisableGrayscale": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 25
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": -1
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 7
+        },
+        "SleeveColors": [
+            [158,8,62],
+            [225,58,73],
+            [215,0,55]
+        ]
+    }
+}

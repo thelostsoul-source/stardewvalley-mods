@@ -1,0 +1,83 @@
+{
+    "Name": "MCC 21 Lime Llamas",
+    "FrontShirt": {
+        "DisableGrayscale": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 7
+        },
+        "SleeveColors": [
+            [144,123,83],
+            [183,171,111],
+            [230,228,215]
+        ]
+    },
+    "RightShirt": {
+        "DisableGrayscale": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 7
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 7
+        },
+        "SleeveColors": [
+            [144,123,83],
+            [183,171,111],
+            [230,228,215]
+        ]
+    },
+    "LeftShirt": {
+        "DisableGrayscale": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 14
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 7
+        },
+        "SleeveColors": [
+            [144,123,83],
+            [183,171,111],
+            [230,228,215]
+        ]
+    },
+    "BackShirt": {
+        "DisableGrayscale": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 21
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": -1
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 8
+        },
+        "SleeveColors": [
+            [144,123,83],
+            [183,171,111],
+            [230,228,215]
+        ]
+    }
+}

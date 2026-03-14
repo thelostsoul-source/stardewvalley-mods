@@ -1,0 +1,83 @@
+{
+    "Name": "Fisherman",
+    "FrontShirt": {
+        "DisableGrayscale": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 8
+        },
+        "SleeveColors": [
+            [102,27,27],
+            [161,25,25],
+            [177,41,41]
+        ]
+    },
+    "RightShirt": {
+        "DisableGrayscale": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 9
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 8
+        },
+        "SleeveColors": [
+            [102,27,27],
+            [161,25,25],
+            [177,41,41]
+        ]
+    },
+    "LeftShirt": {
+        "DisableGrayscale": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 17
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 8
+        },
+        "SleeveColors": [
+            [102,27,27],
+            [161,25,25],
+            [177,41,41]
+        ]
+    },
+    "BackShirt": {
+        "DisableGrayscale": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 25
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": -1
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 7
+        },
+        "SleeveColors": [
+            [102,27,27],
+            [161,25,25],
+            [177,41,41]
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "Name": "MCC 25 Pink Parrots",
+    "FrontShirt": {
+        "DisableGrayscale": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 9
+        },
+        "SleeveColors": [
+            [151,37,79],
+            [219,79,136],
+            [219,79,136]
+        ]
+    },
+    "RightShirt": {
+        "DisableGrayscale": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 10
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 8
+        },
+        "SleeveColors": [
+            [151,37,79],
+            [219,79,136],
+            [219,79,136]
+        ]
+    },
+    "LeftShirt": {
+        "DisableGrayscale": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 19
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 8
+        },
+        "SleeveColors": [
+            [151,37,79],
+            [219,79,136],
+            [219,79,136]
+        ]
+    },
+    "BackShirt": {
+        "DisableGrayscale": true,
+        "StartingPosition": {
+            "X": 0,
+            "Y": 28
+        },
+        "BodyPosition": {
+            "X": 0,
+            "Y": 0
+        },
+        "ShirtSize": {
+            "Width": 8,
+            "Length": 8
+        },
+        "SleeveColors": [
+            [151,37,79],
+            [219,79,136],
+            [219,79,136]
+        ]
+    }
+}
