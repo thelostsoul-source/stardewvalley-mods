@@ -3,6 +3,8 @@ El llistat de mods que gastem per a la partida.
 
 Tots els mods necessiten [SMAPI - Stardew Modding API](https://www.nexusmods.com/stardewvalley/mods/2400).
 
+Estos mods van abocats a la carpeta de Mods: ~\Steam\steamapps\common\Stardew Valley
+
 ## Aesthetic
 Guapets per al món
 

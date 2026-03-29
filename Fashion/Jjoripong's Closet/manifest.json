@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Jjoripong's Closet",
+  "Author": "Jjoripong",
+  "Version": "5.8.1",
+  "Description": "Credits to Jjoripong.",
+  "UniqueID": "Jjori.Closet",
+  "UpdateKeys": [],
+  "Dependencies": [],
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.FashionSense",
+    "MinimumVersion": "5.8.1"
+  }
+}
