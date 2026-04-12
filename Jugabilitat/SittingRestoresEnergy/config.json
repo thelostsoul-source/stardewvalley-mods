@@ -1,7 +1,7 @@
 {
   "EnergyPerSecond": 10,
   "TickRateSeconds": 1,
-  "MaxEnergyRecovery": 50,
+  "MaxEnergyRecovery": 100,
   "EnableIndoors": true,
   "EnableOutdoors": true
 }

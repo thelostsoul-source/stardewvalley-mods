@@ -1,0 +1,6 @@
+{
+  "SevenSecondIntervals": 6,
+  "SitToPassTime": false,
+  "SitToRegainStamina": true,
+  "EnergyPerMinutePass": 10
+}
